@@ -9,4 +9,5 @@ This is the maven-project from the training
 3.
 4.
 5.
- that is done
+ that is done.
+ 
