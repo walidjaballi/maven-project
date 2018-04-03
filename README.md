@@ -10,4 +10,3 @@ This is the maven-project from the training
 4.
 5.
  that is done.
- 
